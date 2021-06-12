@@ -544,6 +544,9 @@ footer .footer-block p {
   .heroSection {
     height: 100%;
   }
+   .heroSection .heroSection2 {
+    height: auto;
+  }
   .heroSection2 .img-div img {
     height: 100%;
     object-fit: cover;
